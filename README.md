@@ -1,8 +1,9 @@
 # StacKIT 🚀
 
 A modern, full-stack Q&A platform inspired by Stack Overflow, built with Next.js, TypeScript, and Node.js.
-Hosted on :- https://stackit-tawny.vercel.app/
+#### Hosted on :- https://stackit-tawny.vercel.app/
 
+#### StackIt Wireframe and prototype :- https://app.visily.ai/projects/225a3190-915d-4a26-8ee8-821c7f9eb9de/boards/2038743
 ![StacKIT](https://img.shields.io/badge/StacKIT-Q%26A%20Platform-blue?style=for-the-badge&logo=stackoverflow)
 ![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)
@@ -289,4 +290,4 @@ If you have any questions or need help, please open an issue on GitHub or contac
 
 ---
 
-*Made with ❤ by the StacKIT team[Yash Sharma-yashsharma37158@gmail.com, Jainex Patel-jainexp017@gmail.com,Shubam Nanda-Shubhamnanda637@gmail.com, Sakshi Pawar-titikshashahajipawar2002@gmail.com]*
+*Made with ❤ by the StacKIT team[Yash Sharma - yashsharma37158@gmail.com, Jainex Patel - jainexp017@gmail.com, Shubam Nanda - Shubhamnanda637@gmail.com, Sakshi Pawar - titikshashahajipawar2002@gmail.com]*
